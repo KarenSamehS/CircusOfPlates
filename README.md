@@ -9,14 +9,15 @@ A Java game where the player controls a clown that catches and stacks plates. Bu
 
 ## Screenshots
 
-### Main Menu
-![Main Menu](OneDrive - Alexandria University/Desktop/screenshots/game_over.png)
+### Main Menu  
+![Main Menu](OneDrive%20-%20Alexandria%20University/Desktop/screenshots/main_menu.png)
 
-### Gameplay
-![Gameplay]OneDrive - Alexandria University/Desktop/screenshots/gameplay.png)
+### Gameplay  
+![Gameplay](OneDrive%20-%20Alexandria%20University/Desktop/screenshots/gameplay.png)
 
-### Game Over
-![Game Over](OneDrive - Alexandria University/Desktop/screenshots/game_over.png)
+### Game Over  
+![Game Over](OneDrive%20-%20Alexandria%20University/Desktop/screenshots/game_over.png)
+
 
 
 ## How to Run
