@@ -10,13 +10,13 @@ A Java game where the player controls a clown that catches and stacks plates. Bu
 ## Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](OneDrive - Alexandria University/Desktop/screenshots/game_over.png)
 
 ### Gameplay
-![Gameplay](screenshots/gameplay.png)
+![Gameplay]OneDrive - Alexandria University/Desktop/screenshots/gameplay.png)
 
 ### Game Over
-![Game Over](screenshots/game_over.png)
+![Game Over](OneDrive - Alexandria University/Desktop/screenshots/game_over.png)
 
 
 ## How to Run
